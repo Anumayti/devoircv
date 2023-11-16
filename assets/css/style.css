@@ -55,6 +55,22 @@ main h2 {
     align-self: center;
 }
 
+.main__aboutme h2 {
+    margin-inline-end: 3em;
+    padding-inline-start: 1em;
+}
+
+.main__aboutme p {
+    margin-inline-start: 1em;
+    margin-inline-end: 5em;
+    text-align: justify;
+    text-indent: 2em;
+}
+
+.main__aboutme ul {
+    margin-inline-start: 0.5em;
+}
+
 .main__profile {
     width: 760px;
     border-right-style: solid;
@@ -63,6 +79,25 @@ main h2 {
     flex-wrap: wrap;
 }
 
+.main__profile h2 {
+    padding-left: 0.5em;
+    margin-inline-start: 1.5em;
+    margin-inline-end: 1em;
+}
+
+.main__profile h3 {
+    margin-inline-start: 2.2em;
+    margin-inline-end: 1em;
+}
+
+.main__profile p {
+    margin-inline-start: 2.5em;
+    
+}
+
+.main__profile ul {
+    margin-inline-start: 3em;
+}
 footer {
     background-color: #782221;
     background-size: cover;
