@@ -1,8 +1,70 @@
 html {
-    display: flex ;
+    display: flex;
     justify-content: center;
 }
 
 body {
     width: 1160px;
+}
+
+header section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+header section h1 {
+    display: flex;
+    justify-content: center;
+}
+
+header section h2 {
+    display: flex;
+    justify-content: center;
+}
+
+header address {
+    width: 1160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.main__aboutme {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.main__profile {
+    width: 760px;
+    border-right-style: solid;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+footer {
+    width: 1160px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer section {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;    
+    justify-content: space-evenly;
 }
