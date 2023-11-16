@@ -41,6 +41,10 @@ main {
     flex-wrap: nowrap;
 }
 
+main h2 {
+    background-color: #dbc2a4;
+}
+
 .main__aboutme {
     background-color: #782221;
     background-size: cover;
