@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&display=swap');
+
+@font-face {
+    font-family: "RalewayRegular";
+    src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "RalewayBold";
+    src: url('../fonts/Raleway-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "RalewayLightItalic";
+    src: url('../fonts/Raleway-LightItalic.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+header h2 {
+    color: white;
+}
+
+header a {
+    font-family: 'RalewayLightItalic', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.main__aboutme p {
+    font-family: 'RalewayRegular', sans-serif;
+    color: white;
+}
+
+.main__aboutme li {
+    font-family: 'RalewayRegular', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+.main__profile p {
+    font-family: 'RalewayRegular', sans-serif;
+}
+
+.main__profile li {
+    font-family: 'RalewayRegular', sans-serif;
+}
+
+footer p {
+    font-family: 'RalewayRegular', sans-serif;
+    color: white;
+    font-size: 0.8em;
+}
