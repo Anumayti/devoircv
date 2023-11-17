@@ -108,7 +108,7 @@ footer {
     justify-content: center;
 }
 
-footer section {
+footer div {
     width: 300px;
     display: flex;
     flex-direction: row;
