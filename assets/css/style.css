@@ -17,6 +17,7 @@ header section {
 }
 
 header section a{
+    padding-top: 1rem;
     display: flex;
     justify-content:center;
 }
@@ -35,6 +36,8 @@ header address {
     background-color: #2c1d27;
     background-size: cover;
     width: 1160px;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -107,6 +110,7 @@ footer {
     background-color: #782221;
     background-size: cover;
     width: 1160px;
+    padding-top: 0.5rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
