@@ -1,0 +1,17 @@
+header a:hover{
+    text-decoration: underline;
+}
+
+header img:hover{
+    cursor:zoom-in;
+}
+
+.main__profile h2:hover{
+    border-left-style: solid;
+    border-left-width: 1rem;
+    border-left-color: #782221;
+   }
+
+footer img:hover{
+    opacity: 20%;
+}

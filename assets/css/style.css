@@ -16,6 +16,11 @@ header section {
     align-content: center;
 }
 
+header section a{
+    display: flex;
+    justify-content:center;
+}
+
 header section h1 {
     display: flex;
     justify-content: center;

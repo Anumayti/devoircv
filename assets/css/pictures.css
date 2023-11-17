@@ -4,8 +4,6 @@ header section img {
     box-shadow: 0px 0px 20px gray,
      10px 0px 20px gray,
      -10px 0px 20px gray ;
-    display: flex;
-    align-self: center;
 }
 
 footer div img {
