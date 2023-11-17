@@ -55,7 +55,6 @@ main h2 {
 
 .main__aboutme {
     background-color: #782221;
-    background-size: cover;
     width: 400px;
     display: flex;
     flex-direction: column;
